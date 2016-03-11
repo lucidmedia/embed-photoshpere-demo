@@ -1,5 +1,7 @@
-# embedded-photoshpere-demo
-Sample code that demonstrates how to embed a photoshpere
+# embedded-photosphere-demo
+Sample code that demonstrates how to embed a photo sphere
+
+<a href="https://storage.googleapis.com/static.lucid.media/demos/embedded-photosphere-demo.html">Demo: Webpage with embedded photo sphere.</a>
 
 ##### Code from share and embed link on google maps:
 
