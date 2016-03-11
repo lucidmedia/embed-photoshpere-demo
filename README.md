@@ -1,2 +1,2 @@
-# embed-photoshpere-demo
+# embedded-photoshpere-demo
 Sample code that demonstrates how to embed a photoshpere
