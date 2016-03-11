@@ -11,7 +11,9 @@ After descecting url:
     
 iFrame Code:
 
-<!--// <iframe src="https://ssl.gstatic.com/pano/embed/?bsv&imageurl={{static photoshpere url}}&fullsize=8000,4000&croppedsize=8000,4000&offset=0,0&autorotate=1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="100%" width="100%"></iframe> //-->
+<code> 
+    <iframe src="https://ssl.gstatic.com/pano/embed/?bsv&imageurl={{static photoshpere url}}&fullsize=8000,4000&croppedsize=8000,4000&offset=0,0&autorotate=1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="100%" width="100%"></iframe> 
+</code>
     
 New static photosphere static url:
 
