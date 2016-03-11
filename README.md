@@ -27,7 +27,7 @@ https://ssl.gstatic.com/pano/embed/?bsv&imageurl=https://
 &fullsize=8000,4000&croppedsize=8000,4000&offset=0,0&autorotate=1
 ```
 
-##### You should be left with a static link to the photo sphere (see if it works by pasting it into the browser
+##### You should be left with a static link to the photo sphere (see if it works by pasting it into the browser)
 
 ```html
 https://ssl.gstatic.com/pano/embed/?bsv&imageurl=https://lh3.googleusercontent.com%2F-HmoSAimXqmA%2FVscrY6grPoI%2FAAAAAAAA2t0%2FOZsgjelYZ1k%2Fw203-h100-p-k-no&fullsize=8000,4000&croppedsize=8000,4000&offset=0,0&autorotate=1
@@ -37,10 +37,11 @@ https://ssl.gstatic.com/pano/embed/?bsv&imageurl=https://lh3.googleusercontent.c
 
 ```html
 <iframe src="https://ssl.gstatic.com/pano/embed/?bsv&imageurl=
-'''
+```
 
 ##### Append the folloing to the static link
 
+```html
 &fullsize=8000,4000&croppedsize=8000,4000&offset=0,0&autorotate=1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="100%" width="100%"></iframe> 
 ```
     
